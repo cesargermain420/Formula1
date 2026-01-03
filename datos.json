@@ -1,0 +1,197 @@
+{
+  "circuitos": [
+    {
+      "id": 1,
+      "nombre": "Yas Marina Circuit",
+      "ubicacion": "Abu Dabi, Emiratos Árabes Unidos",
+      "kilometros": 5.281,
+      "desde": 2009,
+      "fotoCircuito": "abudhabi.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "Red Bull Ring",
+      "ubicacion": "Spielberg, Austria",
+      "kilometros": 4.318,
+      "desde": 1970,
+      "fotoCircuito": "austria.jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Circuit de Barcelona-Catalunya",
+      "ubicacion": "Montmeló, España",
+      "kilometros": 4.657,
+      "desde": 1991,
+      "fotoCircuito": "barcelona.webp"
+    },
+    {
+      "id": 4,
+      "nombre": "Circuit of the Americas",
+      "ubicacion": "Austin, Estados Unidos",
+      "kilometros": 5.513,
+      "desde": 2012,
+      "fotoCircuito": "EEUU.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Autodromo Enzo e Dino Ferrari (Imola)",
+      "ubicacion": "Imola, Italia",
+      "kilometros": 4.909,
+      "desde": 1980,
+      "fotoCircuito": "imola.webp"
+    },
+    {
+      "id": 6,
+      "nombre": "Autódromo José Carlos Pace (Interlagos)",
+      "ubicacion": "São Paulo, Brasil",
+      "kilometros": 4.309,
+      "desde": 1973,
+      "fotoCircuito": "interlagos.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Suzuka International Racing Course",
+      "ubicacion": "Suzuka, Japón",
+      "kilometros": 5.807,
+      "desde": 1987,
+      "fotoCircuito": "japon.avif"
+    },
+    {
+      "id": 8,
+      "nombre": "Jeddah Corniche Circuit",
+      "ubicacion": "Yeda, Arabia Saudí",
+      "kilometros": 6.174,
+      "desde": 2021,
+      "fotoCircuito": "jedda.webp"
+    },
+    {
+      "id": 9,
+      "nombre": "Albert Park Circuit",
+      "ubicacion": "Melbourne, Australia",
+      "kilometros": 5.278,
+      "desde": 1996,
+      "fotoCircuito": "melbourne.webp"
+    },
+    {
+      "id": 10,
+      "nombre": "Miami International Autodrome",
+      "ubicacion": "Miami, Estados Unidos",
+      "kilometros": 5.412,
+      "desde": 2022,
+      "fotoCircuito": "miami.webp"
+    },
+    {
+      "id": 11,
+      "nombre": "Marina Bay Street Circuit",
+      "ubicacion": "Singapur",
+      "kilometros": 4.940,
+      "desde": 2008,
+      "fotoCircuito": "singapur.webp"
+    },
+    
+    {
+      "id": 12,
+      "nombre": "Silverstone Circuit",
+      "ubicacion": "Silverstone, Reino Unido",
+      "kilometros": 5.891,
+      "desde": 1950,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Monza",
+      "ubicacion": "Monza, Italia",
+      "kilometros": 5.793,
+      "desde": 1950,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Spa-Francorchamps",
+      "ubicacion": "Stavelot, Bélgica",
+      "kilometros": 7.004,
+      "desde": 1950,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Las Vegas Strip Circuit",
+      "ubicacion": "Las Vegas, Estados Unidos",
+      "kilometros": 6.201,
+      "desde": 2023,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Autódromo Hermanos Rodríguez",
+      "ubicacion": "Ciudad de México, México",
+      "kilometros": 4.304,
+      "desde": 1963,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Hungaroring",
+      "ubicacion": "Budapest, Hungría",
+      "kilometros": 4.381,
+      "desde": 1986,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Circuit Gilles Villeneuve",
+      "ubicacion": "Montreal, Canadá",
+      "kilometros": 4.361,
+      "desde": 1978,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Zandvoort",
+      "ubicacion": "Zandvoort, Países Bajos",
+      "kilometros": 4.259,
+      "desde": 1952,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Shanghai International Circuit",
+      "ubicacion": "Shanghai, China",
+      "kilometros": 5.451,
+      "desde": 2004,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Losail International Circuit",
+      "ubicacion": "Losail, Catar",
+      "kilometros": 5.419,
+      "desde": 2021,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Baku City Circuit",
+      "ubicacion": "Bakú, Azerbaiyán",
+      "kilometros": 6.003,
+      "desde": 2016,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Sakhir International Circuit",
+      "ubicacion": "Sakhir, Bahréin",
+      "kilometros": 5.412,
+      "desde": 2004,
+      "fotoCircuito": "generico.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "Circuito de India",
+      "ubicacion": "Greater Noida, India",
+      "kilometros": 5.125,
+      "desde": 2011,
+      "fotoCircuito": "generico.jpg"
+    }
+  ]
+}

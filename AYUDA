@@ -1,0 +1,20 @@
+✅ LO QUE YA ESTÁ HECHO
+- Carga de circuitos desde json-server.
+- Base de datos datos.json completa con fotos locales.
+- Sistema de imágenes locales funcionando con diccionario (assets/circuitos/index.ts).
+- Tarjetas (ItemCarrera) mostrando:
+- Nombre del circuito
+- Datos de carrera
+- Foto del circuito como fondo
+- Formulario para crear nuevas carreras:
+- Guarda en json-server (POST)
+- Cierra al terminar
+- Actualiza la lista automáticamente
+
+❗ LO QUE FALTA POR HACER
+- Validar el formulario (evitar campos vacíos).
+- Mejorar el formulario:
+- Selector visual de circuitos (miniaturas)
+- Autocompletar foto según circuito elegido
+- Mejorar estilos del formulario (modal más bonito).
+- Decidir si separar /circuitos y /carreras en la base de datos.
