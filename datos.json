@@ -6,7 +6,9 @@
       "ubicacion": "Abu Dabi, Emiratos Árabes Unidos",
       "kilometros": 5.281,
       "desde": 2009,
-      "fotoCircuito": "abudhabi.webp"
+      "fotoCircuito": "abudhabi.jpg",
+      "lat": 24.4672,
+      "lng": 54.6031
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "ubicacion": "Spielberg, Austria",
       "kilometros": 4.318,
       "desde": 1970,
-      "fotoCircuito": "austria.jpeg"
+      "fotoCircuito": "austria.jpg",
+      "lat": 47.2197,
+      "lng": 14.764
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "ubicacion": "Montmeló, España",
       "kilometros": 4.657,
       "desde": 1991,
-      "fotoCircuito": "barcelona.webp"
+      "fotoCircuito": "barcelona.jpg",
+      "lat": 41.57,
+      "lng": 2.2611
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "ubicacion": "Austin, Estados Unidos",
       "kilometros": 5.513,
       "desde": 2012,
-      "fotoCircuito": "EEUU.jpg"
+      "fotoCircuito": "EEUU.jpg",
+      "lat": 30.1328,
+      "lng": -97.6411
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "ubicacion": "Imola, Italia",
       "kilometros": 4.909,
       "desde": 1980,
-      "fotoCircuito": "imola.webp"
+      "fotoCircuito": "imola.jpg",
+      "lat": 44.3444,
+      "lng": 11.714
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "ubicacion": "São Paulo, Brasil",
       "kilometros": 4.309,
       "desde": 1973,
-      "fotoCircuito": "interlagos.webp"
+      "fotoCircuito": "interlagos.jpg",
+      "lat": -23.7022,
+      "lng": -46.6932
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "ubicacion": "Suzuka, Japón",
       "kilometros": 5.807,
       "desde": 1987,
-      "fotoCircuito": "japon.avif"
+      "fotoCircuito": "japon.jpg",
+      "lat": 34.8417,
+      "lng": 136.5389
     },
     {
       "id": 8,
@@ -62,7 +76,9 @@
       "ubicacion": "Yeda, Arabia Saudí",
       "kilometros": 6.174,
       "desde": 2021,
-      "fotoCircuito": "jedda.webp"
+      "fotoCircuito": "jedda.jpg",
+      "lat": 21.6319,
+      "lng": 39.1044
     },
     {
       "id": 9,
@@ -70,7 +86,9 @@
       "ubicacion": "Melbourne, Australia",
       "kilometros": 5.278,
       "desde": 1996,
-      "fotoCircuito": "melbourne.webp"
+      "fotoCircuito": "melbourne.jpg",
+      "lat": -37.8497,
+      "lng": 144.9683
     },
     {
       "id": 10,
@@ -78,120 +96,210 @@
       "ubicacion": "Miami, Estados Unidos",
       "kilometros": 5.412,
       "desde": 2022,
-      "fotoCircuito": "miami.webp"
+      "fotoCircuito": "miami.jpg",
+      "lat": 25.9581,
+      "lng": -80.2389
     },
     {
       "id": 11,
       "nombre": "Marina Bay Street Circuit",
       "ubicacion": "Singapur",
-      "kilometros": 4.940,
+      "kilometros": 4.94,
       "desde": 2008,
-      "fotoCircuito": "singapur.webp"
-    },
-    
+      "fotoCircuito": "singapur.jpg",
+      "lat": 1.2915,
+      "lng": 103.8638
+    }
+  ],
+  "carreras": [
     {
-      "id": 12,
-      "nombre": "Silverstone Circuit",
-      "ubicacion": "Silverstone, Reino Unido",
-      "kilometros": 5.891,
-      "desde": 1950,
-      "fotoCircuito": "generico.jpg"
-    },
-    {
-      "id": 13,
-      "nombre": "Monza",
-      "ubicacion": "Monza, Italia",
-      "kilometros": 5.793,
-      "desde": 1950,
-      "fotoCircuito": "generico.jpg"
+      "id": 1,
+      "circuitoId": 1,
+      "nombre": "GP Abu Dhabi 2024",
+      "ganador": "Max Verstappen",
+      "segundo": "Charles Leclerc",
+      "tercero": "Lando Norris",
+      "vueltaRapida": "1:26.521"
     },
     {
-      "id": 14,
-      "nombre": "Spa-Francorchamps",
-      "ubicacion": "Stavelot, Bélgica",
-      "kilometros": 7.004,
-      "desde": 1950,
-      "fotoCircuito": "generico.jpg"
+      "id": 2,
+      "circuitoId": 2,
+      "nombre": "GP Austria 2024",
+      "ganador": "Max Verstappen",
+      "segundo": "Oscar Piastri",
+      "tercero": "Carlos Sainz",
+      "vueltaRapida": "1:05.123"
     },
     {
-      "id": 15,
-      "nombre": "Las Vegas Strip Circuit",
-      "ubicacion": "Las Vegas, Estados Unidos",
-      "kilometros": 6.201,
-      "desde": 2023,
-      "fotoCircuito": "generico.jpg"
+      "id": 3,
+      "circuitoId": 3,
+      "nombre": "GP España 2024",
+      "ganador": "Lando Norris",
+      "segundo": "Max Verstappen",
+      "tercero": "Lewis Hamilton",
+      "vueltaRapida": "1:18.334"
     },
     {
-      "id": 16,
-      "nombre": "Autódromo Hermanos Rodríguez",
-      "ubicacion": "Ciudad de México, México",
-      "kilometros": 4.304,
-      "desde": 1963,
-      "fotoCircuito": "generico.jpg"
+      "id": 4,
+      "circuitoId": 4,
+      "nombre": "GP Estados Unidos 2024",
+      "ganador": "Max Verstappen",
+      "segundo": "Lewis Hamilton",
+      "tercero": "Charles Leclerc",
+      "vueltaRapida": "1:37.221"
     },
     {
-      "id": 17,
-      "nombre": "Hungaroring",
-      "ubicacion": "Budapest, Hungría",
-      "kilometros": 4.381,
-      "desde": 1986,
-      "fotoCircuito": "generico.jpg"
+      "id": 5,
+      "circuitoId": 5,
+      "nombre": "GP Emilia-Romaña 2024",
+      "ganador": "Charles Leclerc",
+      "segundo": "Lando Norris",
+      "tercero": "George Russell",
+      "vueltaRapida": "1:15.998"
     },
     {
-      "id": 18,
-      "nombre": "Circuit Gilles Villeneuve",
-      "ubicacion": "Montreal, Canadá",
-      "kilometros": 4.361,
-      "desde": 1978,
-      "fotoCircuito": "generico.jpg"
+      "id": 6,
+      "circuitoId": 6,
+      "nombre": "GP Brasil 2024",
+      "ganador": "Lewis Hamilton",
+      "segundo": "Lando Norris",
+      "tercero": "Carlos Sainz",
+      "vueltaRapida": "1:11.432"
     },
     {
-      "id": 19,
-      "nombre": "Zandvoort",
-      "ubicacion": "Zandvoort, Países Bajos",
-      "kilometros": 4.259,
-      "desde": 1952,
-      "fotoCircuito": "generico.jpg"
+      "id": 7,
+      "circuitoId": 7,
+      "nombre": "GP Japón 2024",
+      "ganador": "Max Verstappen",
+      "segundo": "Sergio Pérez",
+      "tercero": "Carlos Sainz",
+      "vueltaRapida": "1:30.221"
     },
     {
-      "id": 20,
-      "nombre": "Shanghai International Circuit",
-      "ubicacion": "Shanghai, China",
-      "kilometros": 5.451,
-      "desde": 2004,
-      "fotoCircuito": "generico.jpg"
+      "id": 8,
+      "circuitoId": 8,
+      "nombre": "GP Arabia Saudí 2024",
+      "ganador": "Max Verstappen",
+      "segundo": "Charles Leclerc",
+      "tercero": "Fernando Alonso",
+      "vueltaRapida": "1:28.334"
     },
     {
-      "id": 21,
-      "nombre": "Losail International Circuit",
-      "ubicacion": "Losail, Catar",
-      "kilometros": 5.419,
-      "desde": 2021,
-      "fotoCircuito": "generico.jpg"
+      "id": 9,
+      "circuitoId": 9,
+      "nombre": "GP Australia 2024",
+      "ganador": "Carlos Sainz",
+      "segundo": "Charles Leclerc",
+      "tercero": "Lando Norris",
+      "vueltaRapida": "1:20.999"
     },
     {
-      "id": 22,
-      "nombre": "Baku City Circuit",
-      "ubicacion": "Bakú, Azerbaiyán",
-      "kilometros": 6.003,
-      "desde": 2016,
-      "fotoCircuito": "generico.jpg"
+      "id": 10,
+      "circuitoId": 10,
+      "nombre": "GP Miami 2024",
+      "ganador": "Lando Norris",
+      "segundo": "Max Verstappen",
+      "tercero": "Charles Leclerc",
+      "vueltaRapida": "1:29.432"
     },
     {
-      "id": 23,
-      "nombre": "Sakhir International Circuit",
-      "ubicacion": "Sakhir, Bahréin",
-      "kilometros": 5.412,
-      "desde": 2004,
-      "fotoCircuito": "generico.jpg"
+      "id": 11,
+      "circuitoId": 11,
+      "nombre": "GP Singapur 2024",
+      "ganador": "Carlos Sainz",
+      "segundo": "Lando Norris",
+      "tercero": "Lewis Hamilton",
+      "vueltaRapida": "1:42.221"
     },
     {
-      "id": 24,
-      "nombre": "Circuito de India",
-      "ubicacion": "Greater Noida, India",
-      "kilometros": 5.125,
-      "desde": 2011,
-      "fotoCircuito": "generico.jpg"
+      "id": "228e",
+      "circuitoId": 3,
+      "nombre": "asdfasdf23",
+      "ganador": "asdf",
+      "segundo": "asdfasdf",
+      "tercero": "asdfa",
+      "vueltaRapida": "asdfasfd"
+    },
+    {
+      "id": "9084",
+      "circuitoId": 5,
+      "nombre": "Carrera Prueba",
+      "ganador": "Charles",
+      "segundo": "Juan",
+      "tercero": "Pedro ",
+      "vueltaRapida": "1:23:01"
+    },
+    {
+      "id": "08fa",
+      "circuitoId": 5,
+      "nombre": "Carrera prueba 2",
+      "ganador": "Juan",
+      "segundo": "Pedro",
+      "tercero": "Samuel",
+      "vueltaRapida": "1:23.5"
+    },
+    {
+      "id": "e1c5",
+      "circuitoId": 4,
+      "nombre": "La ceja ",
+      "ganador": "Mercad",
+      "segundo": "Comfama",
+      "tercero": "Rafa ",
+      "vueltaRapida": "12:54.543"
+    },
+    {
+      "id": "f741",
+      "circuitoId": 1,
+      "nombre": "La carrera",
+      "ganador": "Juan",
+      "segundo": "Pedro",
+      "tercero": "Hector",
+      "vueltaRapida": "1:12.377"
+    },
+    {
+      "id": "c638",
+      "circuitoId": 2,
+      "nombre": "Egh",
+      "ganador": "Dfh",
+      "segundo": "Dgh",
+      "tercero": "Dfg",
+      "vueltaRapida": "1:32.223"
+    },
+    {
+      "id": "ad4e",
+      "circuitoId": 1,
+      "nombre": "Carrera 3",
+      "ganador": "Pedro",
+      "segundo": "Juan",
+      "tercero": "Orlando",
+      "vueltaRapida": "1:23.455"
+    },
+    {
+      "id": "b426",
+      "circuitoId": 8,
+      "nombre": "Eliminar esta carrers",
+      "ganador": "Juan",
+      "segundo": "Pedro",
+      "tercero": "Jacunto",
+      "vueltaRapida": "1:67.989"
+    },
+    {
+      "id": "605d",
+      "circuitoId": 7,
+      "nombre": "La macarena ",
+      "ganador": "Ga",
+      "segundo": "Jo",
+      "tercero": "Da",
+      "vueltaRapida": "12:43.123"
+    },
+    {
+      "id": "da21",
+      "circuitoId": 1,
+      "nombre": "Jdjd",
+      "ganador": "Shbddj",
+      "segundo": "Bdjd",
+      "tercero": "Djjd",
+      "vueltaRapida": "2:44.666"
     }
   ]
 }
